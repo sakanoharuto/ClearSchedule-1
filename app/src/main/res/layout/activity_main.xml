@@ -13,10 +13,4 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-    <CalendarView
-        android:id="@+id/calendarView"
-        android:layout_width="333dp"
-        android:layout_height="339dp"
-        tools:layout_editor_absoluteX="39dp"
-        tools:layout_editor_absoluteY="268dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
